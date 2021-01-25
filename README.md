@@ -1,2 +1,3 @@
 # AF2
-Another Repository
+
+This branch is for all the games I create.
