@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Muslim Achievements During the Islamic Golden Age</title>
+    </head>
+    <style>
+    body {
+      font-family: "Lato", sans-serif;
+    }
+    .tableofcontents {
+      width: 140px;
+      position: fixed;
+      z-index: 1;
+      top: 186px;
+      left: 10px;
+      background: #eee;
+      overflow-x: hidden;
+      padding: 8px 0;
+    }
+    
+    .tableofcontents a {
+      padding: 6px 8px 6px 16px;
+      text-decoration: none;
+      font-size: 20px;
+      color: #2196F3;
+      display: block;
+    }
+    
+    .tableofcontents a:hover {
+      color: black;
+    }
+    
+    .text {
+      margin-left: 140px; 
+      font-size: 20px; 
+      padding: 0px 10px;
+      width: 500px;
+    } .text a {
+      text-decoration: underline;
+    }
+    #myBtn {
+      display: block;
+      position: fixed;
+      bottom: 20px;
+      left: 671px;
+      z-index: 99;
+      font-size: 18px;
+      border: solid silver;
+      border-radius: 141px;
+      outline: none;
+      background-color: white;
+      color: black;
+      cursor: pointer;
+      padding: 10px;
+      border-radius: 30px;
+    }
+    
+    #myBtn:hover {
+      background-color: black;
+      color: white;
+    }
+    
+    #title {
+      position: relative;
+      background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Madina_Haram_at_evening.jpg/1000px-Madina_Haram_at_evening.jpg");
+      font-size: 55px;
+      color: rgb(56, 8, 8);
+      text-align: center;
+      top: -30px;
+      width: 770px;
+    }
+
+</style>
+
+<body>
+
+<div class="tableofcontents">
+  <a href="#Introduction">Introduction</a>
+  <a href="#Science">Science</a>
+  <a href="#Medicine">Medicine</a>
+  <a href="#Mathematics">Mathematics</a>
+  <a href="#Islamic Art">Islamic Art</a>
+  <a href="#Philosophy">Philosophy</a>
+  <a href="#Literature">Literature</a>
+  <a href="#Conclusion">Conclusion</a>
+  <a href="#WorkCited">Work Cited</a>
+</div>
+
+
+<button onclick="topFunction()" id="myBtn" title="Go to top">⬆︎</button>
+<h1 id="title">Muslim Achievements During the Islamic Golden Age</h1>
+<div class="text">
+
+  <h2 id="Introduction">Introduction</h2>
+  <a>Created by: Grant Greving</a>
+  
+  <p>Islam is a religion that was established around 600 CE when the prophet Muhammad spread his teachings about the right way to live. His teachings encouraged learning and scholarship. Science and the understanding of the natural world were said to be a part of the right way of life and a duty to all Muslims. The Muslims conducted experiments to test and prove their theories. Books and manuscripts were copied and translated which filled libraries such as “The House of Wisdom” in Baghdad. Because Muslims believed advances in knowledge improved the lives of others, great discoveries in science, mathematics, art and literature, and technologies were made. </p>
+
+    <h2 id="Science">Science</h2>
+  <p>Achievements in science such as astronomy and inventions and medicine were made during the Islamic Golden Age. Inventions such as the clock and more accurate calendars were created to know when to pray and the precise time and date. Other useful instruments include maps, farming equipment, and the perfected astrolabe. The Muslims studied the skies and heavens in a field of science called astronomy. The study of astronomy was important for both religious and practical reasons. Astronomy was useful for determining prayer times, religious ceremonies and festivals, and for navigation. The Muslims corrected star charts and tables made by the Greeks. Astronomy also contributed to the inventions of the lunar calendar, observatories, and the accurate astrolabe. The astrolabe is a device that shows the position of the sun, moon, and the planets. It was useful to sailors and surveyors. Although invented by the Greeks, the Muslims made it more accurate.</p>
+  <img style="width:500px;" src="https://upload.wikimedia.org/wikipedia/commons/1/18/Astrolabe-Persian-18C.jpg">
+  <a>An Astrolable</a>
+
+    <h2 id="Medicine">Medicine</h2>
+  <p>Muslims made new discoveries in medicine during the Islamic Golden Age. New cures from plants and herbs, more effective drugs, and medical books were a few advances in medicine during the Islamic Golden Age. Also, pharmacies, medical schools, health care, and the first hospitals appeared. Hospitals, called Bimaristan which meant “house of the sick,” were places where the ill were taken to be cared for and treated. Specialist such as doctors and pharmacists worked together to heal patients in a hospital. The hospitals also served as a medical school that taught and enlightened others. Al-Walid ibn Abd al-Malik is known for building the first hospital in Damascus. Soon the idea of the hospital grew more popular and others were built, notably in Baghdad and Cairo.<br>
+<br>
+Doctors and Scientists also made a contribution during the Islamic Golden Age:    
+  </p>
+  <h3>Medical Scientists:</h3>
+  <ul>
+    <img style="width: 200px;" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Avicenna_Portrait_on_Silver_Vase_-_Museum_at_BuAli_Sina_%28Avicenna%29_Mausoleum_-_Hamadan_-_Western_Iran_%287423560860%29.jpg">
+      <h4>Ibn-e-Sina (Avicenna) — 980 – 1037 CE</h4>
+      <li>Known as the father of early modern medicine</li>
+      <li>Wrote the Qanun fi Al-Tibb which was a guide that describes more than 750 drugs</li>
+      <li>The Canon of Medicine was a medical book that was translated and used in Europe up until 1800 CE</li>
+      <h4>Al-Razi — 865 – 925 CE</h4>
+      <li>Father of Pediatrics</li>
+      <li>Creator of ophthalmology and neurosurgery</li>
+      <h4>Al-Zahrawi — 936 – 1013 CE</h4>
+      <li>Father of surgery</li>
+      <li>Formed the way surgery was done until the Renaissance</li>
+      <li>Wrote Kitab al-Tasrif which was an encyclopedia on medicine and surgery</li>
+  </ul>
+  <img style="width: 400px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Arabischer_Maler_des_Kr%C3%A4uterbuchs_des_Dioskurides_004.jpg/1200px-Arabischer_Maler_des_Kr%C3%A4uterbuchs_des_Dioskurides_004.jpg"><br>
+  <a>Medicine During the Islamic Golden Age</a>
+    <h2 id="Mathematics">Mathematics</h2>
+    <p>Mathematics invented during the Islamic Golden Age and introduced to the Western World is still used today. For example, the Hindu-Arabic numerals, although invented in India, they were more widely used in Europe and America after Muslim scholars modified them. Another example is the invention of Algebra. Created by a scholar named Muhammad Al-Khwarizmi and the mathematician Diophantus, Algebra is still used and taught today.</p>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Timbuktu-manuscripts-astronomy-mathematics.jpg/220px-Timbuktu-manuscripts-astronomy-mathematics.jpg"><br>
+    <a>Mathematics Text Book</a>
+    <p>Another influential Muslim, Nasir Al-Din Al-Tusi, a scientist and a mathematician, is considered the creator of trigonometry. Nasir Al-Din Al-Tusi expanded and perfected the Greek mathematician Menelaus’s concept of trigonometry. The outcome being spherical trigonometry, which is still used in the modern world. Mathematics developed during the Islamic Golden Age has highly influenced the Muslims and the Western World.</p>
+    
+    <h2 id="Islamic Art">Islamic Art</h2>
+    <p>Islamic Art is a blend of artworks from different cultures such as Rome, Greece, Persia, and other places. At the same time, however, Islamic art has its own unique styles. Islamic teachings have taught that their god, Allah, alone could make life. Because of this, Muslims believed it was an insult to create art that depicted living creatures. So instead of life, they adorned objects with geometric patterns called arabesques which at the same time, was pleasing to the eye. Arabesques can be seen in mosques and on walls and floors.</p>
+    <img style="width:400px;" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Atauriques.jpg"><br>
+    <a>Arabesques on an Arch</a>
+    <p>Another pattern in Islamic art includes mosaics, which create pictures on surfaces with tiny pieces of colored glass. They sometimes made arabesques patterns with mosaics. Usually decorating floors and walls, mosaics could be found in mosques and non-religious buildings. From the Persians, Muslims learned the art of making pointed arches and incorporated them in the architecture of the mosques. Pointed arches were used for decoration as well as functionality, seen in the walkways of mosques. Also adopted from the Persians, were towers or spires called minarets. Minarets were added to mosques and sat beside of the main building. Usually more than one, they were used to call people to prayer. </p>
+    <img style="width:400px;" src="https://upload.wikimedia.org/wikipedia/commons/0/07/The_Dome_of_the_Rock.jpeg"><br>
+    <a>The Dome of the Rock</a>
+    <p>Inspired by the dome on the Hagia Sophia built by the Byzantines, the Muslims built their mosques with domes. One such example is the mosque, Dome of the Rock in Jerusalem. The domes on this structure is supported by columns and piers. However, most Islamic domes rested on pendentives, which are structures that support domes by evenly distributing the weight to the pendentive’s four corners. Architecture was not the only art that inspired the Muslims. </p> 
+    
+    <p>Arabic Calligraphy, a type of decorative writing, was much admired by the Muslims. The  Muslims adopted calligraphy and created works of art out of it. Muslims wrote their holy book, the Qur’an, in calligraphy, decorated objects such as swords, coins, tiles, floors, and walls with the symbols.</p>
+    <img style="width:400px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Courtyard_of_the_S%C3%BCleymaniye_Mosque_in_Istanbul%2C_Turkey_004.jpg/350px-Courtyard_of_the_S%C3%BCleymaniye_Mosque_in_Istanbul%2C_Turkey_004.jpg"><br>
+    <a>Arabic Calligraphy</a>
+    <p>Prayer rugs have had and still do have much value in the Islamic faith. Prayer rugs are not only useful during prayer times, but they are also an artwork introduced by the Muslims. Islamic prayer rugs were woven from cloth called batik cloth. Arabesques and religious symbols were woven into the rugs. Muslim art was distinctive, but was also influenced by other cultures, such as the Byzantines and the Persians.</p>
+    <img style="width:300px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Antique_oushak_418424.jpg/170px-Antique_oushak_418424.jpg"><br>
+    <a>Prayer Rug</a>
+    <h2 id="Philosophy">Philosophy</h2>
+    <p>Philosophy during the Islamic Golden Age was comprised of Muslim and non-Muslim thinkers who highly influenced thought in the Muslim Empire and elsewhere. They wrote books about Greek philosophy and philosophers which then were translated so others could read and learn about the people and ideas. Moses Maimonides wrote, <i>The Guide for the Perplexed</i> which was translated into Hebrew. His book used Greek logic to explain the Jewish beliefs. The book had a lasting influence on Jewish ideas and the Western World.</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sughrat.jpg/200px-Sughrat.jpg"><br>
+    <a>Islamic Philosophy</a>
+    <p>One philosopher named al-Kindï taught that humans had the capability to learn anything through devices such as logic and mathematics. His thoughts also introduced Muslims to Greek philosophy and philosophers. Through his work, other thinkers, such as Ibn-e-Sina and al-Ghazali, were inspired to also become philosophers. Another important philosopher is al-Ghazali who is known for informing the Western World about Aristotle. Although disliking philosophy, al-Ghazali’s book about Aristotle was educational and accurately depicted the Greek philosopher. The great Muslim thinkers from the Islamic Golden Age greatly influenced the spread of philosophy in the Muslim Empire and the Western World. </p>
+    
+    <h2 id="Literature">Literature</h2>
+  <p>Another achievement during the Islamic Golden Age was Muslim literature. Muslim literature such as The Qur’an, poetry, and works of fiction and non-fiction have been collected, translated, and read throughout the world. The Qur’an is the holy text of the Islamic faith. It is composed of the teachings and words of the prophet Muhammad and made into a single book. People who practice Islam everywhere have read the Qur’an. Among other literatures created by Muslim scholars, was poetry, particularly a form called Rubaiyat. Rubaiyat is poetry that is made up of four-line stanzas and usually holds a thoughtful mood. Omar Khayyam was a Persian poet who wrote <i>The Rubaiyat</i>, a book of poems. It was later translated during the 1800s by Edward FitzGerald. After being translated in the western world, <i>The Rubaiyat</i> became known and read everywhere. </p>
+  <img style="width:400px;" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Maqamat_hariri.jpg"><br>
+  <a>The House of Wisdom in Baghdad</a>
+  <p>Folk tales from the Middle East during the Islamic Golden Ages was collected into books such as <i>One Thousand and One Nights</i>. Stories such as <i>Aladdin</i> and <i>Ali Baba and the Forty Thieves</i> and others are told in the book. <i>One Thousand and One Nights</i> has been translated into many different languages in the eighteenth century. Although the fictional story, <i>One Thousand and One Nights</i>, is an example of lasting literature, non-fictional works such as <i>History of the Prophets and Kings</i> also had an impact in the Middle East and the Western World. Muslims documented the lives of figures such as Muhammad in historical writing. <i>History of the Prophets and Kings</i>, by the historian Muhammad ibn al-Tabari, is an informative text that summarized the past events of prophets, kings, and Middle Eastern history. This work of writing has given historians more knowledge of the past in the Middle East. Literature from the Islamic Golden Age had a lasting influence around the world. </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/More_tales_from_the_Arabian_nights-14566176968.jpg/220px-More_tales_from_the_Arabian_nights-14566176968.jpg"><br>
+  <a style="font-size:12px;"><i>One Thousand and One Nights</i> is a tale about a Persian king named Shahryār. Shahryār, after concluding that all women are unfaithful, marries and kills a new wife each day so they cannot do him harm. Shahryār finally marries a woman named Scheherazade. She tells Shahryār a story each night but does not finnish it. Shahryār, wanting to hear the end, does not kill his wife. This goes on for one thousand and one nights. Each time, Scheherazade tells Shahryār a new story. In the end, Shahryār spares Scheherazadelife.</a>
+  
+  <h2 id="Conclusion">Conclusion</h2>
+  <p>The Muslim achievements during the Islamic Golden Age, such as science, mathematics, art and architecture, philosophy, and literature, had a lasting impact on human society as a whole. Scientific methods and inventions created by the Muslims are still used in the modern world. Algebra, trigonometry, and the Hindu-Arabic numerals had a large effect on the Middle East and the Western World. Arabesques, prayer rugs, and mosques are all iconic symbol from the Islamic Golden Age. Muslim books such as the Qur’an and One Thousand and One Nights are widely known and read even today. The form of poetry, Rubaiyat, invented by Omar Khayyam, is employed in some modern forms of poetry. And, non-fictional texts such as History of the Prophets and Kings gave historians more of an understanding of The Middle East. During the Islamic Golden Age, Muslims make many advances and achievements in science, medicine, mathematics, art, philosophy, and literature that influenced the ancient and modern world.</p>
+  
+  <h2 id="WorkCited">Work Cited</h2>
+  <ul>
+  <li>Adamson, Peter. "Al-Kindi." Stanford Encyclopedia of Philosophy, 21 Feb. 2020, <a href="https://plato.stanford.edu/entries/al-kindi/#GreInf">plato.stanford.edu/entries/al-kindi/#GreInf</a>.</li><br>
+  <li>Holdren, John, and Patricia O. Pearson, editors. World History Our Human Story. K12.Inc, 2007.</li><br>
+  <li>"Introduction to Islamic Art." Lumen, <a href="https://courses.lumenlearning.com/boundless-arthistory/chapter/introduction-to-islamic-art/">courses.lumenlearning.com/boundless-arthistory/chapter/introduction-to-islamic-art/</a></li>.</li><br>
+  <li>"Islamic Mathematics." , Center for South Asian and Middle Eastern Studies, University of Illinois at Urbana-Champaign, <a href = "www.csames.illinois.edu/documents/outreach/Islamic_Mathematics.pdf">www.csames.illinois.edu/documents/outreach/Islamic_Mathematics.pdf</a>. </li><br>
+  <li>"Islamic philosophy." Britannica, <a href="www.britannica.com/topic/Islam/Islamic-philosophywww.britannica.com/topic/Islam/Islamic-philosophy">www.britannica.com/topic/Islam/Islamic-philosophy</a>.</li><br>
+  <li>Richman-Abdo, Kelly. "Dazzling Elements of Ancient Islamic Architecture We Still See Today." My Modern Met, 8 Apr. 2018, <a href="https://mymodernmet.com/islamic-architecture/">mymodernmet.com/islamic-architecture/. </li><br>
+  <li>"Prayer rug." Britannica, <a href="www.britannica.com/topic/prayer-rug">www.britannica.com/topic/prayer-rug</a>. </li><br>
+  <li>"The Islamic Golden Age." Lumen, courses.<a href="https://lumenlearning.com/suny-hccc-worldcivilization/chapter/the-islamic-golden-age/">lumenlearning.com/suny-hccc-worldcivilization/chapter/the-islamic-golden-age/</a>.</li><br>
+  <li>"The Islamic world in the Middle Ages." Bitesize, BBC.co, 2020, <a href="www.bbc.co.uk/bitesize/guides/zx9xsbk/revision/7">www.bbc.co.uk/bitesize/guides/zx9xsbk/revision/7</a>. </li><br>
+  </ul>
+  
+  
+</div>  
+
+<script>
+    var mybutton = document.getElementById("myBtn");
+
+function topFunction() {
+  document.documentElement.scrollTop = 0;
+}
+</script>
+
+    </body>
+</html>
